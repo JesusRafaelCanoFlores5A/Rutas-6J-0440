@@ -25,8 +25,8 @@ samples, guidance on mobile development, and a full API reference.
 
   
 - Resultado
--![image](https://github.com/JesusRafaelCanoFlores5A/Rutas-6J-0440/assets/143547897/cfc11010-c0d9-47fc-8bdc-de84ae114646)
--![image](https://github.com/JesusRafaelCanoFlores5A/Rutas-6J-0440/assets/143547897/78f3cc8e-f6dc-4ee0-a664-9701b6a4cd85)
--![image](https://github.com/JesusRafaelCanoFlores5A/Rutas-6J-0440/assets/143547897/9b0f714a-1d35-4f73-a6c7-23da5b445c5c)
+- ![image](https://github.com/JesusRafaelCanoFlores5A/Rutas-6J-0440/assets/143547897/cfc11010-c0d9-47fc-8bdc-de84ae114646)
+- ![image](https://github.com/JesusRafaelCanoFlores5A/Rutas-6J-0440/assets/143547897/78f3cc8e-f6dc-4ee0-a664-9701b6a4cd85)
+- ![image](https://github.com/JesusRafaelCanoFlores5A/Rutas-6J-0440/assets/143547897/9b0f714a-1d35-4f73-a6c7-23da5b445c5c)
 
 
